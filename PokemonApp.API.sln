@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonApp.API", "PokemonApp.API\PokemonApp.API.csproj", "{8472EFB3-D9D7-4A8F-B06D-CA39CF3F6A70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonApp.Contracts", "PokemonApp.Contracts\PokemonApp.Contracts.csproj", "{AEF58014-1B3A-49C7-8FDA-70DA58F00A6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonApp.Dto", "PokemonApp.Dto\PokemonApp.Dto.csproj", "{A8F3BC07-BA1A-46B4-8C60-842BC7052543}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonApp.Repository", "PokemonApp.Repository\PokemonApp.Repository.csproj", "{4FDA97FA-C7BC-464E-A460-E9AA184D37B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonApp.Data", "PokemonApp.Data\PokemonApp.Data.csproj", "{B283EF1D-EA06-401B-89EA-A48E59010C4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonApp.Interfaces", "PokemonApp.Interfaces\PokemonApp.Interfaces.csproj", "{46398197-849E-4D74-B525-D0507C99D096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8472EFB3-D9D7-4A8F-B06D-CA39CF3F6A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8472EFB3-D9D7-4A8F-B06D-CA39CF3F6A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8472EFB3-D9D7-4A8F-B06D-CA39CF3F6A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8472EFB3-D9D7-4A8F-B06D-CA39CF3F6A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF58014-1B3A-49C7-8FDA-70DA58F00A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF58014-1B3A-49C7-8FDA-70DA58F00A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF58014-1B3A-49C7-8FDA-70DA58F00A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF58014-1B3A-49C7-8FDA-70DA58F00A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F3BC07-BA1A-46B4-8C60-842BC7052543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F3BC07-BA1A-46B4-8C60-842BC7052543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F3BC07-BA1A-46B4-8C60-842BC7052543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F3BC07-BA1A-46B4-8C60-842BC7052543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDA97FA-C7BC-464E-A460-E9AA184D37B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDA97FA-C7BC-464E-A460-E9AA184D37B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDA97FA-C7BC-464E-A460-E9AA184D37B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDA97FA-C7BC-464E-A460-E9AA184D37B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B283EF1D-EA06-401B-89EA-A48E59010C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B283EF1D-EA06-401B-89EA-A48E59010C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B283EF1D-EA06-401B-89EA-A48E59010C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B283EF1D-EA06-401B-89EA-A48E59010C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46398197-849E-4D74-B525-D0507C99D096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46398197-849E-4D74-B525-D0507C99D096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46398197-849E-4D74-B525-D0507C99D096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46398197-849E-4D74-B525-D0507C99D096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A98DD9-5178-482B-AEF3-FEED6110B0AF}
+	EndGlobalSection
+EndGlobal
